@@ -58,6 +58,7 @@
     ],
     "window.confirmBeforeClose": "never",
     "[cpp]": {
+    
         
         "editor.wordBasedSuggestions": "off",
         "editor.semanticHighlighting.enabled": true,
@@ -67,5 +68,21 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "livePreview.customExternalBrowser": "Chrome",
     "liveServer.settings.donotVerifyTags": true,
-    "explorer.confirmPasteNative": false
+    "explorer.confirmPasteNative": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorStyleInactive": "underline",
+    "terminal.integrated.enableImages": true,
+    "terminal.integrated.copyOnSelection": true,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "github.copilot.editor.enableAutoCompletions": false,
+    "inlineChat.lineNaturalLanguageHint": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true
 }
