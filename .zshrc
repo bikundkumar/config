@@ -28,12 +28,9 @@ source ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 # Source zsh-syntax-highlighting last to ensure proper functionality
 # source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export PATH=$HOME/.local/bin:$PATH
-export PATH=$HOME/.local/bin:$PATH
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-export PATH=$HOME/.local/bin:$PATH
 alias open="xdg-open"
 
-export PATH=$HOME/.local/bin:$PATH
+export GEMINI_API_KEY=AIzaSyAHazgXFsPcKblmfll_I9PyJ6cfviVjMhY
+export OPENAI_API_KEY="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"
+
