@@ -31,6 +31,3 @@ export PATH=$HOME/.local/bin:$PATH
 
 alias open="xdg-open"
 
-export GEMINI_API_KEY=AIzaSyAHazgXFsPcKblmfll_I9PyJ6cfviVjMhY
-export OPENAI_API_KEY="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"
-
